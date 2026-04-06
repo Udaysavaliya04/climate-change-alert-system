@@ -1,6 +1,5 @@
-# 🌊 Coastal Threat Alert System
+# 🌊 Climate change Alert System
 
-**Team Name:** 404 NOT FOUND  
 **Tech Stack:** Next.js · FastAPI · Python · Scikit-learn · Leaflet · MySQL
 
 ## 🚀 Overview
